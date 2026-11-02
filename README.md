@@ -87,14 +87,14 @@ This repository does not include the Gradle wrapper, so it should be built from 
 - Real monthly comparison data on the Monthly and Home screens
 - Data export and backup
 
-<!-- Screenshots: add the images to a /screenshots folder, then uncomment.
+.
 
-## Screenshots
+
+|## Screenshots
 
 | Home | Category Popup | History | Insights |
 |---|---|---|---|
-| ![Home](screenshots/home.png) | ![Popup](screenshots/popup.png) | ![History](screenshots/history.png) | ![Insights](screenshots/insights.png) |
--->
+| <img src="screenshots/home.png" width="200"> | <img src="screenshots/popup.png" width="200"> | <img src="screenshots/history.png" width="200"> | <img src="screenshots/insights.png" width="200"> |
 
 ## Author
 
